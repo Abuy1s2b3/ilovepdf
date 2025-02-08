@@ -11,7 +11,7 @@ _CLOSE = "🚶 CLOSE 🚶"
 _RESTART = "☠ `𝐎𝐕𝐄𝐑𝐋𝐎𝐀𝐃 𝐃𝐄𝐂𝐓𝐄𝐂𝐓𝐄𝐃`☠:\n__𝐬𝐞𝐫𝐯𝐞𝐫 𝐫𝐞𝐬𝐭𝐚𝐫𝐭𝐞𝐝__ \n\nI noticed that your work was also in queue\n\nCan you please try again..!"
 _STOP = "Hey {}!\nThe {} is here to make your life easier,\n\n`but unfortunately. It's currently experiencing some server-side maintenance.`\n\n__No need to worry though, just click the button below, and I'll let you know as soon as it's back up and running smoothly.__"
 _STOP_CB_ = "🔔 Ping me when it's UP 🔔"
-_SETTINGS = "⚙️ SETTINGS ⚙️"
+
 _LANGUAGE = "🌍 LANGUAGE 🌍"
 _HELP = "📚 HELP 📚"
 _CHANNEL = "📢 CHANNEL 📢"
